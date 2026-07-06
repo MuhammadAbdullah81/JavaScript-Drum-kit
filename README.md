@@ -4,6 +4,8 @@ A simple browser-based drum kit built with vanilla HTML, CSS, and JavaScript. Pr
 
 ## Demo
 
+Live Demo: https://muhammadabdullah81.github.io/JavaScript-Drum-kit/
+
 Press the keys **A, S, D, F, G, H, J, K, L** on your keyboard to play different drum sounds. Each key press highlights the matching on-screen key with a glowing border and scale animation.
 
 ## Features
