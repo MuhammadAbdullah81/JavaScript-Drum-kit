@@ -58,10 +58,7 @@ Press the keys **A, S, D, F, G, H, J, K, L** on your keyboard to play different 
 
 1. Clone or download this project.
 2. Make sure you have a `sounds/` folder with the required `.wav` files and a `background.jpg` image in the project root (update paths in `app.js`/`style.css` if yours differ).
-3. Open `index.html` directly in your browser, or serve it with a local dev server:
-   ```bash
-   npx serve .
-   ```
+3. Open `index.html` directly in your browser, or serve it with a local dev server.
 4. Click anywhere on the page (some browsers require a user interaction before audio can play) and start pressing keys!
 
 ## Browser Notes
